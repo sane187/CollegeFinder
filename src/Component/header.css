@@ -1,0 +1,21 @@
+.nav {
+  font-family: "Roboto", sans-serif;
+}
+.icon {
+  transform: scale(1.4);
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  background-color: snow !important;
+  color: blue !important;
+  margin-left: 1em !important;
+}
+.btn:hover {
+  background-color: #89cff0 !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
